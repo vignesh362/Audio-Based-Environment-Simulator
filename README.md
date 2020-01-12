@@ -1,1 +1,2 @@
-# ABES
+Blind people find it very difficult to navigate around on a daily basis. Identification of elements and the overall environment is a very difficult task. In some instances it has also caused injuries from a minor level to life threatening level.
+Our solution provides a blind person with an audio based environment simulation. Objects around the person in a close vicinity will be identified and relayed out in form of speech (audio). This allows the person to understand the surrounding environment and take necessary precautions if needed. It also helps them to identify elements on their own without the help of another individual.
